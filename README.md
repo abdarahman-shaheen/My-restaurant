@@ -14,4 +14,4 @@
 
 6. Contact info
 
-![](./Frame.png)
+![](./Frames.png)
